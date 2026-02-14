@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Pratik Sinha
 
-🎓 B.Tech Computer Science Engineering (2nd Year)  
-📍 UPES, Dehradun  
+🚀 Helping Small Businesses Build Modern Websites  
+📄 Helping Students Create ATS-Optimized Resumes  
+🎓 B.Tech CSE (2nd Year) | UPES Dehradun 
 💻 AI-Powered Web Developer & Digital Solutions Specialist  
 
 ---
@@ -42,6 +43,16 @@ Building modern digital solutions for:
 📧 Email: yourmail@email.com  
 🌐 Fiverr: https://fiverr.com/yourusername  
 
+---
+
+
+## 🌐 Live Projects (In Progress)
+
+🔹 Modern Business Website Template – Coming Soon  
+🔹 ATS Resume Optimization Toolkit – Coming Soon  
+🔹 Personal Portfolio Website – Coming Soon  
+
+More projects being deployed regularly.
 ---
 
 ⭐ Focused on clean design, structured execution, and fast delivery.
