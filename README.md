@@ -1,58 +1,74 @@
-# 👋 Hi, I'm Pratik Sinha
+# 👋 Hi, I'm Pratik Sinha  
 
-🚀 Helping Small Businesses Build Modern Websites  
-📄 Helping Students Create ATS-Optimized Resumes  
-🎓 B.Tech CSE (2nd Year) | UPES Dehradun 
-💻 AI-Powered Web Developer & Digital Solutions Specialist  
+🚀 Web Developer | Building Websites for Businesses  
+🎯 I help small businesses and students create a strong online presence  
 
 ---
 
-## 🚀 What I Do
-
-• Build modern one-page business websites  
-• Create responsive landing pages  
-• Optimize resumes for ATS systems  
-• Improve LinkedIn profiles for better job visibility  
-• Deliver clean, fast, and practical digital solutions  
+## 💼 What I Do
+- 🌐 Build modern, fast, and responsive business websites  
+- ⚡ Create high-converting landing pages  
+- 📄 Optimize resumes for ATS systems  
+- 🎯 Help startups and students grow online  
 
 ---
 
-## 🛠 Technical Skills
-
-• HTML5  
-• CSS3  
-• Basic JavaScript  
-• Responsive Design  
-• Git & GitHub  
-• GitHub Pages Deployment  
-• AI Workflow Optimization  
+## 🛠️ Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🚀 Projects  
 
-Building modern digital solutions for:
-- Small businesses  
-- Students & job seekers  
-- Startup founders  
+🔗 Modern Business Website  
+👉 https://your-project-link.com  
 
----
+🔗 Portfolio Website  
+👉 https://your-project-link.com  
 
-## 📫 Contact
-
-📧 Email: yourmail@email.com  
-🌐 Fiverr: https://fiverr.com/yourusername  
+🔗 Landing Page Project  
+👉 https://your-project-link.com  
 
 ---
 
+## 📊 GitHub Stats  
 
-## 🌐 Live Projects (In Progress)
+Pratik's GitHub stats
 
-🔹 Modern Business Website Template – Coming Soon  
-🔹 ATS Resume Optimization Toolkit – Coming Soon  
-🔹 Personal Portfolio Website – Coming Soon  
+Top Languages
 
-More projects being deployed regularly.
+GitHub Streak
+
 ---
 
-⭐ Focused on clean design, structured execution, and fast delivery.
+## 🐍 Contribution Snake  
+
+Snake animation
+
+---
+
+## 👀 Profile Views  
+￼
+
+---
+
+## 💼 Services  
+
+✔ Business Websites  
+✔ Landing Pages  
+✔ Portfolio Websites  
+
+📩 Open for freelance & collaboration  
+
+---
+
+## 📬 Contact  
+
+📧 yourmail@email.com  
+🌐 https://your-portfolio-link.com  
+
+---
+
+⭐ Focused on clean design, fast delivery, and real-world results
