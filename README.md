@@ -1,8 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiksinha123)]
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratiksinha123&theme=youtube-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratiksinha123&theme=transparent&border_radius=40&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 
 
