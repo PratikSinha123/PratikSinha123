@@ -1,3 +1,7 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratiksinha123&theme=youtube-dark)](https://git.io/streak-stats)
+
+
+
 # 👋 Hi, I'm Pratik Sinha  
 
 🚀 Web Developer | Building Websites for Businesses  
