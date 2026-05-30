@@ -33,7 +33,7 @@
 👉 https://portfolio-mu-one-4xm74eoxh2.vercel.app
 
 🔗 Landing Page Project  
-👉 https://your-project-link.com  
+👉 https://trachea-ai.vercel.app  
 
 ---
 
