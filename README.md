@@ -70,8 +70,9 @@ Snake animation
 
 ## 📬 Contact  
 
-📧 yourmail@email.com  
-🌐 https://your-portfolio-link.com  
+📧 pratiksinha1064@gmail.com
+🌐 https://portfolio-mu-one-4xm74eoxh2.vercel.app
+
 
 ---
 
