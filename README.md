@@ -38,12 +38,11 @@
 ---
 
 ## 📊 GitHub Stats  
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikSinha123&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=1D9E75)
 
-Pratik's GitHub stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSinha123&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75)
 
-Top Languages
-
-GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratikSinha123&theme=transparent&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://git.io/streak-stats)
 
 ---
 
