@@ -12,6 +12,21 @@
 ## 🚀 About Me
 
 ```js
+
+<div align="center">
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pratik+Sinha+%F0%9F%91%8B;Web+Developer+%7C+Freelancer;Building+the+Web%2C+One+Site+at+a+Time)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=&fontColor=fff&fontSize=40&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```js
 const pratik = {
   name: "Pratik Sinha",
   location: "Dehradun, Uttarakhand 🇮🇳",
@@ -47,6 +62,15 @@ const pratik = {
 
 ---
 
+## 💼 Work Experience
+
+| 🏢 Company | 🧑‍💻 Role | 📅 Status |
+|---|---|---|
+| [WeSpace Stark](https://www.instagram.com/wespacestark/) | Web Developer | 🟢 Current |
+| [Vallo.in](https://vallo.in) | Web Developer | ⚪ Previous |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,7 +82,7 @@ const pratik = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PratikSinha123&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PratikSinha123&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
