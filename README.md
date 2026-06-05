@@ -1,72 +1,124 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pratiksinha123&theme=transparent&border_radius=40&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<div align="center">
 
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pratik+Sinha+%F0%9F%91%8B;Web+Developer+%7C+Freelancer;Building+the+Web%2C+One+Site+at+a+Time)](https://git.io/typing-svg)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=&fontColor=fff&fontSize=40&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm Pratik Sinha  
-
-🚀 Web Developer | Building Websites for Businesses  
-🎯 I help small businesses and students create a strong online presence  
-
----
-
-## 💼 What I Do
-- 🌐 Build modern, fast, and responsive business websites  
-- ⚡ Create high-converting landing pages  
-- 📄 Optimize resumes for ATS systems  
-- 🎯 Help startups and students grow online  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+## 🚀 About Me
+
+```js
+const pratik = {
+  name: "Pratik Sinha",
+  location: "Dehradun, Uttarakhand 🇮🇳",
+  role: "Web Developer & Freelancer",
+  focus: ["Business Websites", "Landing Pages", "Portfolio Sites"],
+  email: "pratiksinha1064@gmail.com",
+  portfolio: "https://portfolio-mu-one-4xm74eoxh2.vercel.app",
+  openTo: "Freelance & Collaboration 🤝"
+};
+```
+
+> 🎯 I help **small businesses, startups & students** build a strong online presence through clean, fast, and modern websites.
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Tech Stack
 
-🔗 Modern Business Website  
-👉 https://waffleda.in 
+**Languages & Markup**
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
 
-🔗 Portfolio Website  
-👉 https://portfolio-mu-one-4xm74eoxh2.vercel.app
-
-🔗 Landing Page Project  
-👉 https://trachea-ai.vercel.app  
+**Frameworks & Tools**
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Projects
 
-
-## 🐍 Contribution Snake  
-
-Snake animation
-
----
-
-## 👀 Profile Views  
-￼
+| 🔗 Project | 📝 Description | 🛠 Tech |
+|---|---|---|
+| [🍦 Waffleda](https://waffleda.in) | Modern business website for a real client | HTML, CSS, JS |
+| [💼 Portfolio](https://portfolio-mu-one-4xm74eoxh2.vercel.app) | My personal developer portfolio | HTML, CSS, JS |
+| [🤖 Trachea AI](https://trachea-ai.vercel.app) | AI-powered landing page project | Python, HTML |
 
 ---
 
-## 💼 Services  
+## 📊 GitHub Stats
 
-✔ Business Websites  
-✔ Landing Pages  
-✔ Portfolio Websites  
+<div align="center">
 
-📩 Open for freelance & collaboration  
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=PratikSinha123&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&ring_color=6366F1&custom_title=Pratik's%20GitHub%20Stats" height="180"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PratikSinha123&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&custom_title=Most%20Used%20Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratikSinha123&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📬 Contact  
+## 📈 Activity Graph
 
-📧 pratiksinha1064@gmail.com
-🌐 https://portfolio-mu-one-4xm74eoxh2.vercel.app
-
+[![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikSinha123&custom_title=Pratik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐ Focused on clean design, fast delivery, and real-world results
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=PratikSinha123&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-readme-trophies)
+
+</div>
+
+---
+
+## 💼 Services I Offer
+
+| Service | Details |
+|---|---|
+| 🌐 Business Websites | Fast, responsive, modern sites for small businesses |
+| ⚡ Landing Pages | High-converting pages that get results |
+| 💼 Portfolio Websites | Stand-out portfolios for students & professionals |
+| 📄 ATS Resume Optimization | Resumes that pass the bots and impress humans |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mu-one-4xm74eoxh2.vercel.app)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksinha1064@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikSinha123)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=PratikSinha123&label=Profile%20Views&color=6366F1&style=for-the-badge)](https://github.com/PratikSinha123)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+
+⭐ **Focused on clean design, fast delivery, and real-world results**
+
+📩 *Open for freelance & collaboration — let's build something great!*
+
+</div>
