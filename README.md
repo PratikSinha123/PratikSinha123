@@ -58,8 +58,7 @@ const pratik = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PratikSinha123&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratikSinha123&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 </div>
 
 ---
