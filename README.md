@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pratik+Sinha+%F0%9F%91%8B;Web+Developer+%7C+Freelancer;Building+the+Web%2C+One+Site+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=&fontColor=fff&fontSize=40&animation=fadeIn" width="100%"/>
