@@ -63,7 +63,9 @@ const pratik = {
 | [🤖 Trachea AI](https://trachea-ai.vercel.app) | AI-powered landing page project | Python, HTML |
 
 ---
+## 🎮 Holopin Badges
 
+[![@pratiksinha123's Holopin board](https://holopin.me/pratiksinha123)](https://holopin.io/@pratiksinha123)
 ## 🛠️ Tech Stack
 
 **Languages & Markup**
