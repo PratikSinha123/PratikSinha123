@@ -22,15 +22,7 @@ const pratik = {
   openTo: "Freelance & Collaboration 🤝"
 };
 ```
-## 🛠️ Tech Stack
 
-**Languages & Markup**
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
-
-**Frameworks & Tools**
-[![Skills](https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
-
-> 🎯 I help **small businesses, startups & students** build a strong online presence through clean, fast, and modern websites.
 
 ---
 ## 📊 GitHub Stats
@@ -74,7 +66,15 @@ const pratik = {
 
 ---
 
+## 🛠️ Tech Stack
 
+**Languages & Markup**
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
+
+**Frameworks & Tools**
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
+
+> 🎯 I help **small businesses, startups & students** build a strong online presence through clean, fast, and modern websites.
 
 </div>
 
