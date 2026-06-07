@@ -44,8 +44,7 @@ const pratik = {
 ![3D Contribution Calendar](https://raw.githubusercontent.com/pratiksinha123/pratiksinha123/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📈 Activity Graph
-
-[![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik&bg_color=0D1117&color=A855F7&line=7C3AED&point=6D28D9&area=true&area_color=7C3AED&hide_border=true)](https://github.com/Pratik)
+[![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratiksinha123&bg_color=0D1117&color=A855F7&line=7C3AED&point=6D28D9&area=true&area_color=7C3AED&hide_border=true)](https://github.com/pratiksinha123)
 ---
 
 ## 🏆 GitHub Trophies
