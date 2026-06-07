@@ -45,7 +45,7 @@ const pratik = {
 
 ## 📈 Activity Graph
 
-[![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikSinha123&custom_title=Pratik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pratik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikSinha123&custom_title=Pratik's%20GitHub%20Activity%20Graph&bg_color=#7B2FBE&color=#7B2FBE&line=6366F1&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
