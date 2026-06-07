@@ -22,11 +22,6 @@ const pratik = {
   openTo: "Freelance & Collaboration 🤝"
 };
 ```
-
-> 🎯 I help **small businesses, startups & students** build a strong online presence through clean, fast, and modern websites.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Markup**
@@ -35,18 +30,9 @@ const pratik = {
 **Frameworks & Tools**
 [![Skills](https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
 
----
-
-## 🚀 Projects
-
-| 🔗 Project | 📝 Description | 🛠 Tech |
-|---|---|---|
-| [🍦 Waffleda](https://waffleda.in) | Modern business website for a real client | HTML, CSS, JS |
-| [💼 Portfolio](https://portfolio-mu-one-4xm74eoxh2.vercel.app) | My personal developer portfolio | HTML, CSS, JS |
-| [🤖 Trachea AI](https://trachea-ai.vercel.app) | AI-powered landing page project | Python, HTML |
+> 🎯 I help **small businesses, startups & students** build a strong online presence through clean, fast, and modern websites.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,6 +62,19 @@ const pratik = {
 <div align="center">
 
 [![GitHub Trophies](https://github-trophies.vercel.app/?username=PratikSinha123&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-readme-trophies)
+---
+
+## 🚀 Projects
+
+| 🔗 Project | 📝 Description | 🛠 Tech |
+|---|---|---|
+| [🍦 Waffleda](https://waffleda.in) | Modern business website for a real client | HTML, CSS, JS |
+| [💼 Portfolio](https://portfolio-mu-one-4xm74eoxh2.vercel.app) | My personal developer portfolio | HTML, CSS, JS |
+| [🤖 Trachea AI](https://trachea-ai.vercel.app) | AI-powered landing page project | Python, HTML |
+
+---
+
+
 
 </div>
 
